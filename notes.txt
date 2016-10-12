@@ -1,0 +1,16 @@
+Eight main building blocks of an Angular 2 app
+
+1. Module
+2. Component
+3. Template
+4. Metadata
+5. Data Binding
+6. Directive
+7. Service
+8. Dependency Injection
+
+Modules
+-   Angular apps are composed of modules
+-   Modules export things - classes, functions, values - that other modules import
+-   Best practice is to write the app as a collection of modules,
+    each module exporting one thing
